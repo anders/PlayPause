@@ -109,7 +109,6 @@
       <ConformanceMode>true</ConformanceMode>
       <PrecompiledHeaderFile>
       </PrecompiledHeaderFile>
-      <CompileAs />
     </ClCompile>
     <Link>
       <SubSystem>Windows</SubSystem>
@@ -150,8 +149,6 @@
       <ConformanceMode>true</ConformanceMode>
       <PrecompiledHeaderFile>
       </PrecompiledHeaderFile>
-      <CompileAs>
-      </CompileAs>
     </ClCompile>
     <Link>
       <SubSystem>Windows</SubSystem>
